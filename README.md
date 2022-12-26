@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 🌱 I’m a research engineer in Institute of AI Industry Research at Tsinghua University.     
 🔭 I’m currently working on AI4Science, Graph Neural Networks, Geometric Deep Learning. 
-\
+<br>
 [![Wu's GitHub stats](https://github-readme-stats.vercel.app/api?username=smiles724)](https://github.com/anuraghazra/github-readme-stats)
