@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m a research engineer in Institute of AI Industry Research at Tsinghua University.     
-🔭 I’m currently working on AI4Science, Graph Neural Networks, Geometric Deep Learning. 
+🌱 I’m a CS Ph.D student at Stanford University.     
+🔭 I work on AI4Science, Graph Neural Networks, and Geometric Deep Learning. 
+😄 Any collaboration or discussion is welcome! 
 <br>
 [![Wu's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=smiles724)](https://github.com/anuraghazra/github-readme-stats)
