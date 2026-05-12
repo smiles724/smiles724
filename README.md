@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m a CS Ph.D student at Stanford University.     
-🔭 I work on LLMs & Agents, AI4Science, and Graph Neural Networks.       
+🔭 I work on LLMs reasoning, AI4Science, and drug discovery.       
 😄 Any collaboration or discussion is welcome! 
 <br>
 [![Fang's GitHub stats](https://github-readme-stats.vercel.app/api?username=smiles724&show_icons=true&theme=transparent&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
