@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 ---
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smiles724&theme=github_dark)
+### GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=smiles724&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smiles724&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=smiles724&theme=gruvbox)
