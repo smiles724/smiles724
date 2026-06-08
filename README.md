@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 ### Hi there, I am Fang WU 👋
 
 🌱 I’m a CS Ph.D student at Stanford University.  
-🔭 I work on LLMs reasoning, AI4Science, and drug discovery.  
+🔭 I work on LLM reasoning, AI4Science, and drug discovery.  
 😄 Any collaboration or discussion is welcome!
 
-![Fang's GitHub stats](https://github-readme-stats.vercel.app/api?username=smiles724&show_icons=true&theme=transparent&v=2)
+---
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smiles724&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=smiles724&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smiles724&theme=github_dark)
