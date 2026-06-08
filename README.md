@@ -1,8 +1,5 @@
-### Hi there, I am Fang WU👋
-
 <!--
 **smiles724/smiles724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,8 +11,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m a CS Ph.D student at Stanford University.     
-🔭 I work on LLMs reasoning, AI4Science, and drug discovery.       
-😄 Any collaboration or discussion is welcome! 
-<br>
-[![Fang's GitHub stats](https://github-readme-stats.vercel.app/api?username=smiles724&show_icons=true&theme=transparent&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there, I am Fang WU 👋
+
+🌱 I’m a CS Ph.D student at Stanford University.  
+🔭 I work on LLMs reasoning, AI4Science, and drug discovery.  
+😄 Any collaboration or discussion is welcome!
+
+![Fang's GitHub stats](https://github-readme-stats.vercel.app/api?username=smiles724&show_icons=true&theme=transparent&v=2)
